@@ -1,0 +1,6 @@
+gradio
+vosk
+soundfile
+langgraph
+langchain-openai
+ddgs

@@ -1,0 +1,18 @@
+{
+  "items": [
+    { "id": "q01", "question": "Какой сейчас курс доллара к рублю?", "expected": "search" },
+    { "id": "q02", "question": "Какая погода ожидается в Москве завтра?", "expected": "search" },
+    { "id": "q03", "question": "Какие главные новости пришли за последний час?", "expected": "search" },
+    { "id": "q04", "question": "Кто победил в финале последнего чемпионата мира по хоккею?", "expected": "search" },
+    { "id": "q05", "question": "Сколько стоит билет на сеанс в ближайшем кинотеатре сегодня?", "expected": "search" },
+    { "id": "q06", "question": "Какие изменения внесли в налоговый закон в этом месяце?", "expected": "search" },
+    { "id": "q07", "question": "Привет, как дела?", "expected": "no_search" },
+    { "id": "q08", "question": "Объясни, почему небо голубое.", "expected": "no_search" },
+    { "id": "q09", "question": "Кто написал роман «Война и мир»?", "expected": "no_search" },
+    { "id": "q10", "question": "Сколько будет семнадцать умножить на три?", "expected": "no_search" },
+    { "id": "q11", "question": "Напиши короткое стихотворение про зиму.", "expected": "no_search" },
+    { "id": "q12", "question": "Как перевернуть строку в Python?", "expected": "no_search" },
+    { "id": "q13", "question": "Переведи фразу «большое спасибо» на английский.", "expected": "no_search" },
+    { "id": "q14", "question": "Расскажи анекдот про программиста.", "expected": "no_search" }
+  ]
+}
