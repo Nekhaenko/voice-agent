@@ -1,4 +1,4 @@
-# Russian Voice Assistant
+# Voice Assistant
 
 Push-to-talk voice assistant: a Gradio web interface records your speech
 (single toggle button — press to start, press again to stop), transcribes it
